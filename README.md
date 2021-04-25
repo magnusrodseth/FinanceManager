@@ -14,8 +14,8 @@ Created by Magnus Rødseth and Julian Grande.
 
 1. Using an IDE of your choice, find the `Edit configurations...` window.
 2. Create a new `Maven` configuration.
-3. Give you configuration a fitting name.
-4. Enter the following into the command line prompt in the window: `clean:clean javafx:run`
+3. Give your configuration a fitting name.
+4. Enter the following into the command line prompt in the window: `clean:clean javafx:run`.
 5. Run your configuration.
 
 ## Tech stack and plugins 🛠
