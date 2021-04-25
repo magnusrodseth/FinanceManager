@@ -1,0 +1,80 @@
+* {
+    -fx-midnight-green: #104F55;
+    -fx-myrtle-green: #32746D;
+    -fx-midnight-blue: #9EC5AB;
+    -fx-dark-green: #01200F;
+    -fx-jungle-green: #011502;
+    -fx-font-smoothing-type: gray;
+}
+
+#body {
+    -fx-background-color: #fff;
+}
+
+#receipt-body {
+    -fx-background-color: -fx-myrtle-green;
+}
+
+#back-link {
+    -fx-border-color: transparent;
+    -fx-padding: 4 0 4 0;
+}
+
+
+.form-input {
+    -fx-padding: 15px;
+    -fx-font-size: 13px;
+    -fx-background-color: none;
+    -fx-border-color: #00000020;
+    -fx-border-radius: 3px;
+    -fx-border-insets: 5px 0px 8px 0px;
+    -fx-prompt-text-fill: rgba(0, 0, 0, 0.7);
+}
+
+.cta-button {
+    -fx-background-color: -fx-myrtle-green;
+    -fx-padding: 10px;
+    -fx-text-fill: #fff;
+    -fx-spacing: 10px;
+    -fx-font-family: 'Roboto', sans-serif;
+}
+
+.dashboard-btn {
+    -fx-padding: 12px 35px;
+    -fx-background-color: -fx-midnight-green;
+    -fx-text-fill: #fff;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 5, 0, 1, 1);
+
+}
+
+.receipt-container {
+    -fx-background-color: #ffffff;
+}
+
+
+.signout-btn {
+    -fx-text-fill: #fff;
+}
+
+.jumbo-title {
+    -fx-font-family: "Roboto", sans-serif;
+    -fx-font-size: 35px;
+    -fx-spacing: 0;
+}
+
+.piechart-border {
+    -fx-border-width: 3px;
+}
+
+.hr {
+    -fx-start-margin: 10px 10px 10px 10px;
+}
+
+.margin-bottom-15 {
+    -fx-border-insets: 0px 0px 15px 0px;
+}
+
+/*.jumbo-desc {
+    -fx-font-size: 11px;
+    -fx-text-fill: #00000090;
+}*/
