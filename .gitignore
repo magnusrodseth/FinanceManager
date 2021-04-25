@@ -115,7 +115,8 @@ buildNumber.properties
 financemanager.iml
 .project
 .DS_Store
-project.iml
+project/project.iml
+project/target
 
 # Persistent storage
 accounts.json
