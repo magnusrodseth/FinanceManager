@@ -18,13 +18,13 @@ Created by Magnus Rødseth and Julian Grande.
 4. Enter the following into the command line prompt in the window: `clean:clean javafx:run`
 5. Run your configuration.
 
-### Tech stack and plugins 🛠
+## Tech stack and plugins 🛠
 
 ☕️ Application: [JavaFX with Maven](https://github.com/openjfx/javafx-maven-plugin)  
 📦 Local storage: Our custom JSON parser and serializer, as per the project description  
 🧪 Testing: [JUnit with Maven Surefire](https://maven.apache.org/surefire/maven-surefire-plugin/examples/junit.html)  
 
-### Color Codes 🎨
+## Color Codes 🎨
 
 ![midnight-green >](project/src/main/resources/financemanager/images/colour_scheme/midnight-green.png) midnight-green: #104F55    
 ![myrtle-green](project/src/main/resources/financemanager/images/colour_scheme/myrtle-green.png) myrtle-green: #32746D   
@@ -32,7 +32,7 @@ Created by Magnus Rødseth and Julian Grande.
 ![dark-green](project/src/main/resources/financemanager/images/colour_scheme/dark-green.png) dark-green: #01200F    
 ![jungle-green](project/src/main/resources/financemanager/images/colour_scheme/jungle-green.png) jungle-green: #011502      
 
-### FXML Views 👨‍🎨
+## FXML Views 👨‍🎨
 
 ![Register view](project/src/main/resources/financemanager/images/screenshots/register-view.png)
 ![Login view](project/src/main/resources/financemanager/images/screenshots/login-view.png)
