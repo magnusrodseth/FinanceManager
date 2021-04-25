@@ -22,15 +22,23 @@ Created by Magnus Rødseth and Julian Grande.
 
 ☕️ Application: [JavaFX with Maven](https://github.com/openjfx/javafx-maven-plugin)  
 📦 Local storage: Our custom JSON parser and serializer, as per the project description  
-🧪 Testing: [JUnit with Maven Surefire](https://maven.apache.org/surefire/maven-surefire-plugin/examples/junit.html)  
+🧪 Testing: [JUnit with Maven Surefire](https://maven.apache.org/surefire/maven-surefire-plugin/examples/junit.html)
+
+### Persistent storage 📦
+
+The application supports persistent storage of users, accounts and transactions. These JSON files are located in the
+following path: `~/financemanager/storage`.
 
 ## Color Codes 🎨
 
-![midnight-green >](project/src/main/resources/financemanager/images/colour_scheme/midnight-green.png) midnight-green: #104F55    
-![myrtle-green](project/src/main/resources/financemanager/images/colour_scheme/myrtle-green.png) myrtle-green: #32746D   
-![cambridge-blue](project/src/main/resources/financemanager/images/colour_scheme/cambridge-blue.png) cambridge-blue: #9EC5AB    
+![midnight-green >](project/src/main/resources/financemanager/images/colour_scheme/midnight-green.png) midnight-green:
+#104F55    
+![myrtle-green](project/src/main/resources/financemanager/images/colour_scheme/myrtle-green.png) myrtle-green:
+#32746D   
+![cambridge-blue](project/src/main/resources/financemanager/images/colour_scheme/cambridge-blue.png) cambridge-blue:
+#9EC5AB    
 ![dark-green](project/src/main/resources/financemanager/images/colour_scheme/dark-green.png) dark-green: #01200F    
-![jungle-green](project/src/main/resources/financemanager/images/colour_scheme/jungle-green.png) jungle-green: #011502      
+![jungle-green](project/src/main/resources/financemanager/images/colour_scheme/jungle-green.png) jungle-green: #011502
 
 ## FXML Views 👨‍🎨
 

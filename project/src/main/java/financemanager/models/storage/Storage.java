@@ -22,7 +22,7 @@ public abstract class Storage<T> implements Storable<T> {
      */
     public Storage(String filename) {
         path = String.valueOf(
-                Paths.get(System.getProperty("user.home"), "tdt4100-prosjekt-magnrod", "storage", filename)
+                Paths.get(System.getProperty("user.home"), "financemanager", "storage", filename)
         );
 
         // ----- IMPORTANT -----
