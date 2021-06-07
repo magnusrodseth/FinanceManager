@@ -8,7 +8,7 @@ Finance Manager is a Banking Management System written in Java using JavaFX.
 
 This JavaFX application was a school project for the course TDT4100 (object-oriented programming).
 
-Created by Magnus Rødseth and Julian Grande .
+Created by Magnus Rødseth and Julian Grande.
 
 ## Running the application ✅
 
